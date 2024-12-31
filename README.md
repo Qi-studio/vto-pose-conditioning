@@ -1,1 +1,1 @@
-# vto-pose-conditioning
+Is Concatenation Really All You Need: Efficient Concatenation-Based Pose Conditioning and Pose Control for Virtual Try On
